@@ -1,0 +1,27 @@
+body {
+	background-image: url ('bg.jpg');
+	background-position: absolute;
+	background-size: 1320px 700px;
+	position: relative;
+	background-repeat: no-repeat;
+		
+}
+input[type="search"] {
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+}
+nav {
+	background-size: 300px;
+
+}
+li {
+	list-style: none;
+}
+.span10 {
+	margin-left: 400px;
+	margin-right: 10px;
+	padding: 200px
+}
